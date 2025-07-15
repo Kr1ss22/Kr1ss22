@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,vscode,arduino,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,python,php,godot,tkinter,mysql,bootstrap" />
 </p>
 
 <hr>
