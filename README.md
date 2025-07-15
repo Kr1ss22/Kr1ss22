@@ -5,7 +5,10 @@
 ### IT systems student passionate about building functional and efficient tech solutions.
 
 - 🌱 I’m currently learning **Linux server administration and system design**
-- 💬 Ask me about **Python, Bash scripting, networking, or anything [here](https://github.com/Kr1ss22/Kr1ss22/issues)**
+- 🧠 I study IT Systems at **Haapsalu Vocational Education and Training Centre**
+- 🔧 I enjoy working on **Arduino projects, server setup, scripting, and fixing hardware**
+- 💻 Recently built a **PHP-based webshop**, configured **Unbound DNS server**, and worked with **Tkinter + SQLite** on GUI apps
+
 
 <br>
 
