@@ -12,19 +12,6 @@
 
 <br>
 
-<div align="center">
-  <a href="mailto:kr1ss22@example.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/Kr1ss22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/Kr1ss22" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-</div>
-
-<hr>
 
 ## 🛠️ Languages and Tools
 
