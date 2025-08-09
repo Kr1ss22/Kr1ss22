@@ -9,9 +9,7 @@
 - 🔧 I enjoy working on **Arduino projects, server setup, scripting, and fixing hardware**
 - 💻 Recently built a **PHP-based webshop**, configured **Unbound DNS server**, and worked with **Tkinter + SQLite** on GUI apps
 
-
 <br>
-
 
 ## 🛠️ Languages and Tools
 
@@ -44,3 +42,10 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Kr1ss22/Kr1ss22/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+---
+
+## 📚 Where I Learn
+
+I enhance my skills and knowledge on coding and IT from [Codedex](https://www.codedex.io/@Kr1ss) — a great learning platform I use regularly.
+
